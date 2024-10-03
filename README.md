@@ -1,5 +1,5 @@
 # 101441399_comp3123_labtest1
-# Lab Test Submission - COMP3123
+ COMP3123
 
 ## Student ID: 101441399
 
