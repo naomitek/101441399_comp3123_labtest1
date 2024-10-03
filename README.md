@@ -6,7 +6,7 @@
 ### Overview
 This repository contains my submissions for the lab test involving JavaScript (ES6) and Node.js. The project consists of three questions focusing on ES6 features, promises, and file management.
 
-# Folder 
+# Folder structure 
 - `question-1/lowerCaseWords.js`: Implementation of the `lowerCaseWords` function.
 - `question-2/callbacks.js`: Handling promises with `resolvedPromise` and `rejectedPromise`.
 - `question-3/addLogs.js`: Script to create log files.
